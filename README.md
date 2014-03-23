@@ -1,5 +1,5 @@
-raupino
+Raupino
 =======
 Raupino, an Arduino clone for DIY hobbiest
 
-Detailed description: https://michaelrogger.wordpress.com/2014/03/02/raupino-an-arduino-clone/
+Detailed description: http://michaelrogger.wordpress.com/2014/03/23/raupino-an-arduino-clone/
